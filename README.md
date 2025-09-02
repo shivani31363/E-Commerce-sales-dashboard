@@ -28,3 +28,6 @@ It provides insights into sales, profit, and customer behavior across different 
 - `dashboard.pbix` – Power BI file
 - `dataset.xlsx` – Data source
 - `screenshots/` – Dashboard screenshots.
+
+<img width="1202" height="601" alt="snapshot of dashboard" src="https://github.com/user-attachments/assets/c028c623-8585-40fa-a13f-736e41ae6898" />
+
